@@ -1,0 +1,11 @@
+table{
+    border:1px solid black;
+}
+td, th{
+    text-align: center;
+    border: 1px solid black;
+    padding: 1vw;
+}
+h5{
+    text-align: center;
+}
